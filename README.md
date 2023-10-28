@@ -1,4 +1,4 @@
-# DRF_Custom_Exception_Handler
+# DRF_Custom_Exception_Handler in development...
 
 1. Create an environment
 2. Install requirements
